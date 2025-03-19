@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Tskaran
-- 👀 I’m interested java development
-- 🌱 I’m currently learning java 
-- 📫 How to reach me thyrushivaramthyrukaran@gmail.com
-
 # 💫 About Me:
 - 👋 Hi, I’m @Tskaran<br>- 👀 I’m interested java development<br>- 🌱 I’m currently learning java <br>- 📫 How to reach me thyrushivaramthyrukaran@gmail.com<br>
 
